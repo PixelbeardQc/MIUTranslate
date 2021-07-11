@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MIUTranslate": {
+      "commandName": "Project",
+      "commandLineArgs": "/T=pt /content=\"Hello this is a test\" ",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}

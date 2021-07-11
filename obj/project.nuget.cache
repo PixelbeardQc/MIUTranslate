@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jP9N5rP40jtQ8/RzsBq6dAnFC61GaZkTHCZQ78Nld73SRkMvhnINPa1xDtdMaklN/tlHxZL1VNrsDSV36eEBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxim\\Documents\\GitHub\\MIUTranslate\\MIUTranslate\\MIUTranslate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
